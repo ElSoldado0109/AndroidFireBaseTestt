@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.nobayan.androidfirebase">
 
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".SignUp"></activity>
+        <activity android:name=".UserProfile"></activity>
+        <activity android:name=".SignUp" />
         <activity android:name=".Login" />
         <activity android:name=".Dashboard" />
         <activity android:name=".MainActivity">
