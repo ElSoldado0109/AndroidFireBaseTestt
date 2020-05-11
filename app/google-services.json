@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "551421746754",
+    "firebase_url": "https://androidfirebase-85c21.firebaseio.com",
+    "project_id": "androidfirebase-85c21",
+    "storage_bucket": "androidfirebase-85c21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551421746754:android:95c726809402cfd11f97db",
+        "android_client_info": {
+          "package_name": "com.nobayan.androidfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551421746754-is89edkeabsqfkj0telmaqhnad28so77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXSC2pdX7ylSODio0ZuK2fpN9xh_vEWsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551421746754-is89edkeabsqfkj0telmaqhnad28so77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
